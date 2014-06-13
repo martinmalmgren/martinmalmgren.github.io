@@ -621,8 +621,6 @@ div.nav {
 	// TMP
 }
 div.titleimg {
-	float:left; 
-	overflow:hidden;
 	//border: 1px solid purple; 
 } 
 div.quoteimg {
@@ -631,24 +629,42 @@ div.quoteimg {
 div.nav {
 	//border: 1px solid gold; 
 } 
+div.titleimg {
+	float: left;
+	overflow: hidden;
+} 
 /*
+div.titleimg {
+	position: absolute;
+}
+div.quoteimg {
+	position: absolute;
+	right: 0px;
+}
+*/
+
 @media only screen and (max-width: 1430px) {
 div.titleimg {
+	//position: relative;
 	float:left; 
-	width: 30%; 
+	width: 49%; 
 	//border: 1px solid orange; 
 }
 div.quoteimg {
+	//position: relative;
 	float:right; 
-	width: 69%; 
+	width: 49%; 
 	//border: 1px solid orange; 
 }
+div.nav {
+	clear: both; 
 }
-*/
+}
+
 /*
 @media only screen and (max-width: 1260px) {
 */
-@media only screen and (max-width: 824px) {
+@media only screen and (max-width: 840px) {
 
 img.quoteimg {
 	display: hidden; 
@@ -663,7 +679,7 @@ div.nav {
 }
 }
 
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 630px) {
 
 .quoteimg {
 	display: none; 
