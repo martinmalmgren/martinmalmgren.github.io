@@ -360,7 +360,7 @@ img {
 	//margin-left: 550px;
     margin-left: auto;
     margin-right: auto;
-    max-width: 600px;
+    //max-width: 600px;
     border: 0px solid red;
 	padding: 20px; 
 	//margin-bottom: -2em; 
@@ -442,7 +442,7 @@ body {
 //max-width: 600px; 
 //width: 600px; 
     //border:1px solid red;
-	max-width: 600px;
+	//max-width: 600px;
 	margin-left: auto;
 	margin-right: auto;
 	padding-top: 20px; 
@@ -498,10 +498,6 @@ ul.nav{
 .nav a:hover {
 	color: #fff;
 }
-img.titleimg, .quoteimg, ul.nav, .nav  a {
-	//border: 1px solid red; 
-	// TMP
-}
 img.titleimg {
 	float: left; 
 	margin-left: 200px; 
@@ -553,7 +549,7 @@ blockquote {
 .footer {
 	//position: absolute;
 	//bottom: 0px; 
-    max-width: 600px;
+    //max-width: 600px;
 	background-color: #333;
     margin-left: auto;
     margin-right: auto;
@@ -698,4 +694,93 @@ left: -200px;
 /**IE Hacks - see http://css3pie.com/ for more info on how to use CS3Pie and to download the latest version**/
 ul.enlarge img, ul.enlarge span{
 behavior: url(pie/PIE.htc); 
+}
+
+
+ul{
+    padding: 0;
+    list-style: none;
+	margin: 0 auto; 
+}
+ul li{
+    float: left;
+    width: 100px;
+    text-align: center;
+}
+ul li a{
+    display: block;
+    //padding: 5px 10px;
+    text-decoration: none;
+}
+ul li ul{
+    display: none;
+}
+ul li:hover ul{
+    display: block; /* display the dropdown */
+}
+
+
+img.titleimg, .quoteimg, ul.nav, .nav  a {
+	//border: 1px solid red; 
+	// TMP
+}
+div.nav {
+	//border: 1px solid blue; 
+	// TMP
+}
+
+
+
+.footer, .content {
+	width: 600px; 
+	min-width: 600px; 
+}
+.quoteimg, .titleimg {
+	display: none; 
+}
+
+div.nav {
+	overflow: hidden;
+	//min-width: 600px; 
+	//max-width: 600px;
+	width: 600px;
+	margin-left: auto; 
+	margin-right: auto;
+}
+
+
+
+
+.nav > ul {
+	//min-width: 400px; 
+	//overflow: scroll; 
+}
+
+
+.nav ul {
+   clear:left;
+   float:left;
+   list-style:none;
+   margin:0;
+   padding:0;
+   position:relative;
+   left:50%;
+   text-align:center;
+   white-space: nowrap;
+}
+.nav ul li {
+   display:block;
+   float:left;
+   list-style:none;
+   margin:0;
+   padding:0;
+   position:relative;
+   right:50%;
+   white-space: nowrap;
+}
+.nav ul li a {
+   display:block;
+   margin:0 0 0 1px;
+   //padding:3px 10px;
+   white-space: nowrap;
 }
