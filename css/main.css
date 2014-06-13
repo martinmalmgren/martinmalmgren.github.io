@@ -351,6 +351,7 @@ img {
 
 .content {
 	//margin-top: 400px;
+	background-color: #aaa;
 	background-color: rgba(255,255,255,0.5);
 	background-color: rgba(255,235,225,0.5);
 	//min-width: 250px;
