@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Photos
-weight: 10
+title: Images
 ---
 
 

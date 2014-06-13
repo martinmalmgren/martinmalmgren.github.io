@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Watch
-weight: 6
+title: Videos
 ---
 
 

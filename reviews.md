@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Reviews
-weight: 18
 ---
 
 ## Selected reviews and recommendations

@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Repertoire
-weight: 4
 ---
 
 <!-- Remember to end line with two spaces to create a line break -->
