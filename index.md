@@ -15,49 +15,6 @@ weight: 1
 
 Some dates for concerts in the summertime have been added. The summer schedule currently looks thus:
 
- 
-### June 25
-Musik i Midsommar, Stenungsund     
-Performing solo works by Chabrier, Couperin, Debussy and Ravel, as well as Poulenc's Sextet together with Blomqvist5.    
-More info [here](http://www.musikistenungsund.se/)   
- 
- 
-### July 4
-Malmköping, Sweden  
-Recital with Tobias Ringborg, violin
-Beethoven Kreuzer sonata, Amanda Maier Violin sonata, Tor Aulin Fyra akvareller
- 
-### July 30
-
-Tampere
-Schumann piano quartet, french piano music and much more!
-With Brusk Zanganeh, Sebastian Silén and Peter Gospodin
-
-### July 31
- 
-Loviisa
-Schumann piano quartet, french piano music and much more!
-With Brusk Zanganeh, Sebastian Silén and Peter Gospodin
-
- 
-### August 2-8
-Musiikkitalo, Helsinki   
-Taking part in the Sibelius Finland Experience. Daily performances throughout the summer of Sibelius music. More information [here](http://www.stopover.fi/)
-
-### August 9
-Helsinki, Arkadia International Bookshop
-Solo concert
-
-
-### August 11
-Solo recital at Säfstaholm castle. Works by Couperin, Chabrier, Debussy, Medtner and more. More information [here](http://scenkonstsormland.se/Musik/Musik-pa-Sormlandska-Slott-och-Herresaten1/Konserter-2014/Martin-Malmgren/)
- 
- 
-### August 14
-Camerata, Musiikkitalo, Helsinki   
-"Young Summer Artists" concert   
-Piano works by Couperin, Chabrier, Debussy and Ravel. The concert also includes chamber music, lied and Hindemith's Kammermusik ('Klavierkonzert') op. 36 nr 1, with chamber orchestra conducted by [Sasha Mäkilä](http://www.sashamakila.com/)
- 
 
 ### April 17
 
