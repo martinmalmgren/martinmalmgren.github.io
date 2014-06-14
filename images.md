@@ -6,14 +6,14 @@ title: Images
 
 <div class='image_collection'>
 
-<a href="/images/martinmalmgren1.jpg" > <img src="/images/martinmalmgren1_300.jpg" alt="Martin Malmgren"  />
+<a href="/images/martinmalmgren1.jpg" target="_blank" > <img src="/images/martinmalmgren1_300.jpg" alt="Martin Malmgren"  />
 <br/>
 Photo: Riikka Kaakkurivaara
 </a>
                                                                         
-<a href="/images/martinmalmgren2.jpg" > <img src="/images/martinmalmgren2_300.jpg" alt="Martin Malmgren"  /> </a>
+<a href="/images/martinmalmgren2.jpg" target="_blank" > <img src="/images/martinmalmgren2_300.jpg" alt="Martin Malmgren"  /> </a>
                                                                         
-<a href="/images/martinmalmgren3.jpg" > <img src="/images/martinmalmgren3_300.jpg" alt="Martin Malmgren"  /> </a>
+<a href="/images/martinmalmgren3.jpg" target="_blank" > <img src="/images/martinmalmgren3_300.jpg" alt="Martin Malmgren"  /> </a>
 
 </div>
 
