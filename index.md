@@ -13,7 +13,7 @@ weight: 1
 
 ### June 14
 
-Some dates for concerts in the summertime have been added. The summer schedule currently looks thus:
+Some dates for concerts in the summertime have been added. More info [here](http://www.martinmalmgren.com/2014.html)
 
 
 ### April 17
