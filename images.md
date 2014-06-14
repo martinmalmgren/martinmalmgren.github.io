@@ -4,14 +4,20 @@ title: Images
 ---
 
 
-<img src="/images/photo1_600.jpg" alt="Martin Malmgren" width="600px" />
+<div class='image_collection'>
+
+<a href="/images/martinmalmgren1.jpg" > <img src="/images/martinmalmgren1_300.jpg" alt="Martin Malmgren"  />
+<br/>
 Photo: Riikka Kaakkurivaara
+</a>
                                                                         
+<a href="/images/martinmalmgren2.jpg" > <img src="/images/martinmalmgren2_300.jpg" alt="Martin Malmgren"  /> </a>
                                                                         
-<img src="/images/photo2.png" alt="Martin Malmgren" width="600px" />
-                                                                        
-                                                                        
-<img src="/images/photo3.png" alt="Martin Malmgren" width="600px" />
+<a href="/images/martinmalmgren3.jpg" > <img src="/images/martinmalmgren3_300.jpg" alt="Martin Malmgren"  /> </a>
+
+</div>
+
+
 
 
 

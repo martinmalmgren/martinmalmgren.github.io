@@ -634,28 +634,58 @@ div.titleimg {
 	float: left;
 	overflow: hidden;
 } 
-/*
+div.titleimg {
+	//position: absolute;
+}
+div.quoteimg {
+	//position: absolute;
+	float: right;
+}
+
+@media only screen and (max-width: 1430px) {
+
 div.titleimg {
 	position: absolute;
 }
 div.quoteimg {
 	position: absolute;
 	right: 0px;
+	top: 90px;
+	top: 128px;
+	top: 0px;
 }
-*/
+img.quoteimg {
+	float: right;
+	width: 80%;
+} 
+img.titleimg {
+	margin-left: 100px; 
+}
+div.nav {
+	clear: both; 
+}
+}
 
-@media only screen and (max-width: 1430px) {
+@media only screen and (max-width: 1160px) {
+
 div.titleimg {
-	//position: relative;
-	float:left; 
-	width: 49%; 
-	//border: 1px solid orange; 
+	position: absolute;
 }
 div.quoteimg {
-	//position: relative;
-	float:right; 
-	width: 49%; 
-	//border: 1px solid orange; 
+	position: absolute;
+	right: 0px;
+	top: 90px;
+	top: 128px;
+	right: initial;
+	left: 0px;
+}
+img.quoteimg {
+	float: right;
+	float:left; 
+	width: 60%;
+} 
+img.titleimg {
+	margin-left: 0px; 
 }
 div.nav {
 	clear: both; 
@@ -665,33 +695,45 @@ div.nav {
 /*
 @media only screen and (max-width: 1260px) {
 */
-@media only screen and (max-width: 840px) {
+@media only screen and (max-width: 960px) {
 
+div.quoteimg {
+	left: 0px;
+	top: 118px;
+	//border: 1px solid orange; 
+	right: initial;
+}
 img.quoteimg {
-	display: hidden; 
+	float: left;
+	width: 60%;
 }
 
 img.titleimg {
 	margin-left: 0px; 
 	//border: 1px solid red; 
+	width: 80%;
 }
 div.nav {
 	clear: both; 
 }
 }
-
+/*
 @media only screen and (max-width: 630px) {
+*/
+@media only screen and (max-width: 750px) {
 
 .quoteimg {
 	display: none; 
 }
 
 div.titleimg {
+	position: relative;
 	//width: 100%; 
 	width: 600px; 
 	//border: 1px solid green; 
 	margin-left: auto; 
 	margin-right: auto; 
+	float: none;
 }
 img.titleimg {
 	//margin-left: 0px; 
@@ -700,6 +742,7 @@ img.titleimg {
 	display: block; 
 	float: none; 
 	//clear: both; 
+	width: initial;
 }
 img.titleimg:after {
 	//clear: both; 
@@ -806,9 +849,10 @@ div.nav {
 	//min-width: 600px; 
 	//max-width: 600px;
 	width: 600px;
+	//border: 1px solid maroon;
 	margin-left: auto; 
 	margin-right: auto;
-	display: block; 
+	//display: block; 
 }
 
 
@@ -846,4 +890,14 @@ div.nav {
    margin:0 0 0 1px;
    //padding:3px 10px;
    white-space: nowrap;
+}
+
+.image_collection a {
+	float: left;
+	margin: 10px; 
+	color: black;
+    text-decoration: none;
+}
+.image_collection a img {
+	width: 250px;
 }
