@@ -11,7 +11,6 @@ martin.malmgren@gmail.com
 </a>   
    
 +358466285300   
-   
 +46739692807   
    
    
