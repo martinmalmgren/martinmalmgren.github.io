@@ -3,7 +3,7 @@ layout: default
 title: News
 weight: 1
 ---
-
+<meta name="google-site-verification" content="U8Cg9C4-xnlxot1UllPV4pvlrIiFNBaPF0tKnfgm5SY" />
 <meta name="subject" content="Pianist Martin Malmgren">
 <meta name="description" content="Martin Malmgren is a pianist based in Finland. He frequently performs solo recitals, with orchestras, collaborates with singers and instrumentalists, works with composers and surprises his audiences performing unjustly neglected works far outside of the standard repertoire."/>
 <meta name="keywords" content="Martin Malmgren, piano, pianist, classical music, Prokofiev, Ravel, Bach, Chopin, Szymanowski"/>
