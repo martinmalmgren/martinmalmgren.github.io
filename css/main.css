@@ -366,7 +366,7 @@ img {
 	padding: 20px; 
 	//margin-bottom: -2em; 
 	overflow:auto;
-	padding-bottom: 50px;
+	padding-bottom: 70px;
 }
 
 .content iframe {
@@ -567,7 +567,7 @@ blockquote {
 	height: 180px;
 	clear:both;
 	 */
-	height: 50px; /* '.push' must be the same height as 'footer' */
+	height: 70px; /* '.push' must be the same height as 'footer' */
 	margin-top: -50px; 
 	//position: absolute; 
 	//bottom: 0px; 
@@ -580,7 +580,7 @@ blockquote {
 	margin: 0;
 	padding: 0; 
 	vertical-align: middle; 
-	line-height: 50px; /* '.push' must be the same height as 'footer' */
+	line-height: 70px; /* '.push' must be the same height as 'footer' */
 	font-size: 0.8em; 
 }
 
