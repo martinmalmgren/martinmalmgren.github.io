@@ -30,7 +30,7 @@ Rhapsody in blue
 Piano concerto
  
 ### Hindemith
-Kammermusik nr 2 ('Piano concerto'), op. 36 nr 1
+Kammermusik nr 2 ('Klavierkonzert'), op. 36 nr 1
  
 ### Mozart
 Piano concerto nr 23 in A major  
@@ -54,3 +54,6 @@ Piano concerto nr 5
 ### Schumann
 Piano concerto op. 54  
 Introduction and Allegro Appassionato op. 92
+
+### Shostakovich   
+Concerto in C minor for Piano, Trumpet, and String Orchestra, Op. 35
