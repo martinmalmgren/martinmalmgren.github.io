@@ -19,13 +19,19 @@ weight: 1
 
 More concerto appearances are coming up in the next concert season:   
    
-   August 14th: Hindemith's unjustly neglected Kammermusik op 36 nr 1 ('Klavierkonzert') in [Musiikkitalo](www.musiikkitalo.fi), Helsinki, with Oma Orkesteri conducted by [Sasha Mäkilä](www.sashamakila.com)    
+   August 14th: Hindemith's unjustly neglected Kammermusik op 36 nr 1 ('Klavierkonzert') in [Musiikkitalo](www.musiikkitalo.fi), Helsinki, with Oma Orkesteri conducted by [Sasha Mäkilä](www.sashamakila.com)  
+   
+   
       
-   September 13th: Prokofiev's 5th Piano Concerto in [Temppeliaukion kirkko](http://www.helsinginkirkot.fi/fi/kirkot/temppeliaukion-kirkko) with [SE Ensemble](http://seensemble.fi/) conducted by [Santtu-Matias Rouvali](http://www.harrisonparrott.com/artist/profile/santtu-matias-rouvali)      
+   September 13th: Prokofiev's 5th Piano Concerto in [Temppeliaukion kirkko](http://www.helsinginkirkot.fi/fi/kirkot/temppeliaukion-kirkko) with [SE Ensemble](http://seensemble.fi/) conducted by [Santtu-Matias Rouvali](http://www.harrisonparrott.com/artist/profile/santtu-matias-rouvali)  
+   
+   
       
-   November 27th: Shostakovich 1st concerto, for piano, trumpet and strings, with [St. Michels Strings](http://www.mikkelinkaupunginorkesteri.fi/) conducted by [Markku Laakso](http://www.markkulaakso.net/)      
+   November 27th: Shostakovich 1st concerto, for piano, trumpet and strings, with [St. Michels Strings](http://www.mikkelinkaupunginorkesteri.fi/) conducted by [Markku Laakso](http://www.markkulaakso.net/)  
+   
+   
       
-   February 17-18th 2015: Prokofiev 5th Piano Concerto with [Lahti Sinfonia](http://www.sinfonialahti.fi/) conducted by Dalia Stasevska.      
+   February 17-18th 2015: Prokofiev 5th Piano Concerto with [Lahti Sinfonia](http://www.sinfonialahti.fi/) conducted by Dalia Stasevska. <br>
       
 
 ### June 14
