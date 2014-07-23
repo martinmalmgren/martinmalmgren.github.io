@@ -19,7 +19,7 @@ weight: 1
 
 More concerto appearances are coming up in the next concert season:   
    
-   August 14th: Hindemith's unjustly neglected Kammermusik op 36 nr 1 ('Klavierkonzert') in [Musiikkitalo](www.musiikkitalo.fi), Helsinki, with Oma Orkesteri conducted by [Sasha Mäkilä](www.sashamakila.com)     
+   August 14th: Hindemith's unjustly neglected Kammermusik op 36 nr 1 ('Klavierkonzert') in [Musiikkitalo](www.musiikkitalo.fi), Helsinki, with Oma Orkesteri conducted by [Sasha Mäkilä](www.sashamakila.com)    
       
    September 13th: Prokofiev's 5th Piano Concerto in [Temppeliaukion kirkko](http://www.helsinginkirkot.fi/fi/kirkot/temppeliaukion-kirkko) with [SE Ensemble](http://seensemble.fi/) conducted by [Santtu-Matias Rouvali](http://www.harrisonparrott.com/artist/profile/santtu-matias-rouvali)      
       
