@@ -7,7 +7,11 @@ weight: 1
 <meta name="subject" content="Pianist Martin Malmgren">
 <meta name="description" content="Martin Malmgren is a pianist based in Finland. He frequently performs solo recitals, with orchestras, collaborates with singers and instrumentalists, works with composers and surprises his audiences performing unjustly neglected works far outside of the standard repertoire."/>
 <meta name="keywords" content="Martin Malmgren, piano, pianist, classical music, Prokofiev, Ravel, Bach, Chopin, Szymanowski"/>
-<head> <title>Martin Malmgren, pianist </title> <meta name="description" content="Martin Malmgren is a pianist based in Finland. He frequently performs solo recitals, collaborates with singers and instrumentalists, works with composers and surprises his audiences performing unjustly neglected works far outside of the standard repertoire."> <meta http-equiv="content-type" content="text/html;charset=UTF-8"> </head>
+<head> <title>Martin Malmgren, pianist </title> <meta name="description" content="Martin Malmgren is a pianist based in Finland. He frequently performs solo recitals, collaborates with singers and instrumentalists, works with composers and surprises his audiences performing unjustly neglected works far outside of the standard repertoire."> <meta http-equiv="content-type" content="text/html;charset=UTF-8"> 
+
+<script>   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');    ga('create', 'UA-50478537-1', 'auto');   ga('send', 'pageview');  </script>
+
+</head>
 
 ## 2014
 
