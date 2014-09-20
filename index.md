@@ -15,6 +15,17 @@ weight: 1
 
 ## 2014   
 
+### September 15   
+
+"The big offer of the evening was the Swedish pianist Martin Malmgren's interpretation of Prokofiev's 5th piano concerto, a work he won the Ilmari Hannikainen competition with in Jyväskylä this spring. And it should be said that Malmgren's interpretation feels thought-out and empathetic....In the Toccata movement Malmgren and the gang emphasized the boldness and in the Larghetto-movement, the sublime qualities became particularly prominent. One would certainly like to hear Martin Malmgren in all Prokofiev's piano concerti." - Review of Martin's performance with SE Ensemble in Hufvudstadsbladet. Full review [here](http://t.co/biaD6S1Ckz) (in Swedish)
+
+
+### August 12   
+
+A review of Martin's solo recital in Säfstaholm castle was recently published: 
+   
+"Nine composers and some twenty piano pieces was what the pianist Martin Malmgren conjured up from his piano-hat on his recital. A few well-known works got company with many less known and relatively modern works....  Malmgren truly challenges the audience with his wonderfully rich playing! One highlight of the recital were the two Skazkas by Medtner. Here Malmgren showed his lions paw, which impressed greatly....Martins touch, formidable technique and subtle feeling for diversity in nuances gives us a new big name among pianists." Full review [here](http://news100.se/news/malmgren-utmanade-publiken-4714152) (in Swedish)
+
 ### July 23   
 
 More concerto appearances are coming up in the next concert season:   
