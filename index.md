@@ -15,6 +15,10 @@ weight: 1
 
 ## 2014   
 
+### September 22   
+
+Martin has been invited as Main Guest Artist of [Pasimusic Festival 2015](http://www.pasimusic.com/)!
+
 ### September 15   
 
 "The big offer of the evening was the Swedish pianist Martin Malmgren's interpretation of Prokofiev's 5th piano concerto, a work he won the Ilmari Hannikainen competition with in Jyväskylä this spring. And it should be said that Malmgren's interpretation feels thought-out and empathetic....In the Toccata movement Malmgren and the gang emphasized the boldness and in the Larghetto-movement, the sublime qualities became particularly prominent. One would certainly like to hear Martin Malmgren in all Prokofiev's piano concerti." - Review of Martin's performance with SE Ensemble in Hufvudstadsbladet. Full review [here](http://t.co/biaD6S1Ckz) (in Swedish)
