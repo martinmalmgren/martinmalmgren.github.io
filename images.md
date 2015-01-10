@@ -6,8 +6,17 @@ title: Images
 
 <div class='image_collection'>
 
+<a href="/images/martinmalmgren1.jpg" target="_blank" > <img src="/images/martinmalmgren1_300.jpg" alt="Martin Malmgren"  />
+<br/>
+<small style="font-size: 10px; ">Photo: Riikka Kaakkurivaara</small>
+</a>
                                                                         
-<a href="/images/mm_8849.jpg" target="_blank" > <img src="/images/mm_8849_300.jpg" alt="Martin Malmgren"  /> </a>
+<a href="/images/mm_8849.jpg" target="_blank" > <img src="/images/mm_8849_300.jpg" alt="Martin Malmgren"  />
+<br/>
+<br/>
+
+</a>
+
 <a href="/images/mm_8889.jpg" target="_blank" > <img src="/images/mm_8889_300.jpg" alt="Martin Malmgren"  /> </a>
 <a href="/images/mm_8890.jpg" target="_blank" > <img src="/images/mm_8890_300.jpg" alt="Martin Malmgren"  /> </a>
 <a href="/images/mm_8900.jpg" target="_blank" > <img src="/images/mm_8900_300.jpg" alt="Martin Malmgren"  /> </a>
@@ -15,10 +24,6 @@ title: Images
 <a href="/images/mm_8903.jpg" target="_blank" > <img src="/images/mm_8903_300.jpg" alt="Martin Malmgren"  /> </a>
 <a href="/images/mm_8907.jpg" target="_blank" > <img src="/images/mm_8907_300.jpg" alt="Martin Malmgren"  /> </a>
 
-<a href="/images/martinmalmgren1.jpg" target="_blank" > <img src="/images/martinmalmgren1_300.jpg" alt="Martin Malmgren"  />
-<br/>
-<small style="font-size: 10px; ">Photo: Riikka Kaakkurivaara</small>
-</a>
 
 <small style="font-size: 10px; float:left;">Photos by Valtteri Mäkelä, unless otherwise stated</small>
 </div>
