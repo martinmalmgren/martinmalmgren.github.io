@@ -29,6 +29,11 @@ Review from Martin's debut concert with Sinfonia Lahti:
 
 ## 2014   
 
+  
+### November 6  
+  
+Martin has just finished a recording session of Sibelius Three sonatinas, op. 67 for YLE, the Finnish broadcasting company. The recordings will be aired in 2015.  
+
 ### September 22   
 
 Martin has been invited as Main Guest Artist of [Pasimusic Festival 2015](http://www.pasimusic.com/)!
