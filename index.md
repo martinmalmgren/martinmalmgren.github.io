@@ -13,6 +13,15 @@ weight: 1
 
 </head>
 
+   
+## 2015
+  
+### February 20  
+  
+Review from Martin's debut concert with Sinfonia Lahti:  
+    
+"A winner of numerous competitions and accolades, Martin Malmgren appeared as soloist in Prokofiev's 5th piano concerto. While the program leaflet described the concerto as cold and lacking memorable melodies, the melodies are actually there in abundance: they just are so quick and hearty, that attention is required from the listener in order to receive all information. The concerto speaks of the technical skill of its performers: if one can master this level of complication, neither the soloist nor the orchestra need to prove themselves any further."
+
 ## 2014   
 
 ### September 22   
