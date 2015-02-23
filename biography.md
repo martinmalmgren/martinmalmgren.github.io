@@ -18,7 +18,7 @@ In addition to a soloist and recitalist career, Martin takes great interest in l
 
   
 
-Performing in other venues than the usual concert halls is also of great interest for Martin, bringing music to places where it is less often heard. He often performs in smaller venues, including in bookshops, soirees and home concerts, where there is a possibility to interact closely with the audience. As a co-founder of the klezmer/balkan band Babalisk in his early teens, Martin has also enjoyed the experience of performing in music restaurants, folk music festivals, and on the streets of his hometown, Gothenburg. His wide musical interests have also led to collaborations with pop singers, jazz musicians and others.
+Performing in other venues than the usual concert halls is also of great interest for Martin, bringing classical music to places where it is less often heard. He often performs in smaller venues, including in bookshops, soirees and home concerts, where there is a possibility to interact closely with the audience. As a co-founder of the klezmer/balkan band Babalisk in his early teens, Martin has also enjoyed the experience of performing in music restaurants, folk music festivals, and on the streets of his hometown, Gothenburg. His wide musical interests have also led to collaborations with pop singers, jazz musicians and others.
 
 
   
