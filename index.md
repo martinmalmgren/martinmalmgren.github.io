@@ -14,7 +14,12 @@ weight: 1
 </head>
 
    
-## 2015
+## 2015  
+
+  
+### February 23  
+
+Martin has been selected as one of 50 pianists to take part in the Quarterfinals of the [International Honens Piano Competition](http://www.honens.com/Competition/2015-Honens-Piano-Competition/Quarterfinalists.aspx).
   
 ### February 20  
   
