@@ -49,7 +49,7 @@ A review of Martin's solo recital in Säfstaholm castle was recently published:
    
 "Nine composers and some twenty piano pieces was what the pianist Martin Malmgren conjured up from his piano-hat on his recital. A few well-known works got company with many less known and relatively modern works....  Malmgren truly challenges the audience with his wonderfully rich playing! One highlight of the recital were the two Skazkas by Medtner. Here Malmgren showed his lions paw, which impressed greatly....Martins touch, formidable technique and subtle feeling for diversity in nuances gives us a new big name among pianists." Full review [here](http://news100.se/news/malmgren-utmanade-publiken-4714152) (in Swedish)
 
-### July 23   
+### July 23    
 
 More concerto appearances are coming up in the next concert season:   
    
