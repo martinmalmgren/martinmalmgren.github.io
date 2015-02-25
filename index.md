@@ -23,7 +23,7 @@ Martin has been selected as one of 50 pianists to take part in the Quarterfinals
   
 ### February 20  
   
-Review from Martin's debut concert with Sinfonia Lahti:  
+[Review](https://www.facebook.com/pianistmartinmalmgren/photos/pb.541862229249229.-2207520000.1424864830./604602209641897/?type=1&theater) from Martin's debut concert with Sinfonia Lahti:  
     
 "A winner of numerous competitions and accolades, Martin Malmgren appeared as soloist in Prokofiev's 5th piano concerto. While the program leaflet described the concerto as cold and lacking memorable melodies, the melodies are actually there in abundance: they just are so quick and hearty, that attention is required from the listener in order to receive all information. The concerto speaks of the technical skill of its performers: if one can master this level of complication, neither the soloist nor the orchestra need to prove themselves any further."
 
