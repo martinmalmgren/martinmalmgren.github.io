@@ -3,6 +3,14 @@ layout: default
 title: News
 weight: 1
 ---
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 <meta name="google-site-verification" content="U8Cg9C4-xnlxot1UllPV4pvlrIiFNBaPF0tKnfgm5SY" />
 <meta name="subject" content="Pianist Martin Malmgren">
 <meta name="description" content="Pianist Martin Malmgren frequently performs solo recitals, with orchestras, collaborates with singers and instrumentalists, works with composers and surprises his audiences performing unjustly neglected works far outside of the standard repertoire."/>
@@ -13,7 +21,7 @@ weight: 1
 
 </head>
 
-   
+   <div class="fb-follow" data-href="https://www.facebook.com/pianistmartinmalmgren" data-colorscheme="light" data-layout="standard" data-show-faces="true"></div>
 ## 2015  
 
   
