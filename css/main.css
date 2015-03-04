@@ -367,6 +367,7 @@ img {
 	//margin-bottom: -2em; 
 	overflow:auto;
 	padding-bottom: 70px;
+	position: relative;
 }
 
 .content iframe {
@@ -642,7 +643,39 @@ div.quoteimg {
 	float: right;
 }
 
+.social {
+	display:block;
+	margin-left:20px;
+	clear:both;
+	//border: 1px solid red;
+}
+.social > a {
+	float: right;
+}
+.fb {
+	margin:0px 10px 0 10px;
+	width: 29px
+	
+}
+.yt {
+	margin:0px 10px 0 10px;
+	width: 29px;
+}
+.socialabs {
+	position: absolute; 
+	top: 20px; 
+	left: 20px; 
+	//border: 1px solid green;
+	display:none; 
+}
+.socialabs > a {
+	//float: right;
+	display: inline;
+}
+
+
 @media only screen and (max-width: 1430px) {
+
 
 div.titleimg {
 	position: absolute;
@@ -667,6 +700,10 @@ div.nav {
 }
 
 @media only screen and (max-width: 1160px) {
+
+.social > a {
+	float: left;
+}
 
 div.titleimg {
 	position: absolute;
@@ -722,9 +759,13 @@ div.nav {
 */
 @media only screen and (max-width: 750px) {
 
+.socialabs {
+	display: block; 
+}
 .quoteimg {
 	display: none; 
 }
+
 
 div.titleimg {
 	position: relative;
