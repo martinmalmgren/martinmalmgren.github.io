@@ -646,6 +646,7 @@ div.quoteimg {
 .social {
 	display:block;
 	margin-left:20px;
+	margin-right:20px;
 	clear:both;
 	//border: 1px solid red;
 }
