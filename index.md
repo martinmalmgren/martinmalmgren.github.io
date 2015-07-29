@@ -16,7 +16,9 @@ weight: 1
      
 ## 2015  
 
+### July 19  
   
+  Martin has been chosen among the winners of the  [Schlern International Music Festival Competition](http://schlernmusicfestival.eu/eng/)! 
   
 ### February 20  
   
