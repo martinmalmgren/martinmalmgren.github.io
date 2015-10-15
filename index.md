@@ -15,6 +15,24 @@ weight: 1
 
      
 ## 2015  
+  
+### October 13  
+  
+The [crowdfunding campaign](https://www.indiegogo.com/projects/key-discoveries-a-new-piano-recital-series/) for the piano recital series ["Key discoveries"](https://www.facebook.com/keydiscoveries) has already gotten a good deal of attention and numerous generous contributions. The program will be announced later in October. The crowdfunding campaign is active for 14 more days - do spread the word and/or contribute!  
+
+  
+### October 10  
+  
+  Hufvudstadsbladet reviews the "unusual piano-orgie" at the [PianoEspoo festival](pianoespoo.fi) with six piano soloists performing without conductor with [Tapiola Sinfonietta](tapiolasinfonietta.fi). Martin performed Schumann's unjustly neglected Konzertstück op. 92. Read the review [here](https://www.facebook.com/hblmusik/posts/1672446682967230)  
+  
+### October 5  
+  
+  The [2nd International Pasimusic Festival](http://www.pasimusic.com/) in Kuopio has come to an end. Martin performed in several concerts, including a solo recital with the complete études by Claude Debussy, as well as music by Bartok, Ligeti, Zapata, Lyytikäinen, Szymanowski and Vilagi. The Finnish broadcasting company YLE filmed parts of the festival and will broadcast a program about it in early 2016.  
+    
+### September 21  
+  
+The crowdfunding project for the piano recital series "Key discoveries" has now gone public. Please have a look [here](https://www.indiegogo.com/projects/key-discoveries-a-new-piano-recital-series/). Our Facebook page can also be accessed [here](https://www.facebook.com/keydiscoveries). 
+  
 
 ### July 19  
   
