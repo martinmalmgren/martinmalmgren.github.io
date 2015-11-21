@@ -17,9 +17,9 @@ weight: 1
 ## 2015  
   
     
-### November 15  
+### November 17  
 
-The opening recital of "Key Discoveries" last Sunday was a great success! For more information, click [here](https://www.facebook.com/keydiscoveries/posts/210921509239431)
+The opening recital of the "Key Discoveries" piano recital series last week was a great success! For more information, click [here](https://www.facebook.com/keydiscoveries/posts/210921509239431)
   
 ### October 13  
   
