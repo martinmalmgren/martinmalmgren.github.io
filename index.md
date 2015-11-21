@@ -19,7 +19,7 @@ weight: 1
     
 ### November 15  
 
-<div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/keydiscoveries/posts/210921509239431" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/keydiscoveries/posts/210921509239431"><p>The opening recital of &quot;Key Discoveries&quot; last Sunday was a great success! A lot of people came to listen, there was an...</p>Posted by <a href="https://www.facebook.com/keydiscoveries/">Key discoveries</a> on&nbsp;<a href="https://www.facebook.com/keydiscoveries/posts/210921509239431">Thursday, 19 November 2015</a></blockquote></div></div>
+The opening recital of "Key Discoveries" last Sunday was a great success! For more information, click [here](https://www.facebook.com/keydiscoveries/posts/210921509239431)
   
 ### October 13  
   
