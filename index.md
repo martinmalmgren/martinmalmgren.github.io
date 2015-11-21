@@ -16,6 +16,9 @@ weight: 1
      
 ## 2015  
   
+### November 20  
+  
+Martin was video-interviewed by Axel Brink from Hufvudstadsbladet earlier this week regarding the "Key Discoveries" recital series. Watch [here](https://www.facebook.com/hblmusik/posts/1681826545362577). In Swedish.
     
 ### November 17  
 
