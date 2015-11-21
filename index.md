@@ -16,6 +16,11 @@ weight: 1
      
 ## 2015  
   
+    
+### November 15  
+
+<div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/keydiscoveries/posts/210921509239431" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/keydiscoveries/posts/210921509239431"><p>The opening recital of &quot;Key Discoveries&quot; last Sunday was a great success! A lot of people came to listen, there was an...</p>Posted by <a href="https://www.facebook.com/keydiscoveries/">Key discoveries</a> on&nbsp;<a href="https://www.facebook.com/keydiscoveries/posts/210921509239431">Thursday, 19 November 2015</a></blockquote></div></div>
+  
 ### October 13  
   
 The [crowdfunding campaign](https://www.indiegogo.com/projects/key-discoveries-a-new-piano-recital-series/) for the piano recital series ["Key discoveries"](https://www.facebook.com/keydiscoveries) has already gotten a good deal of attention and numerous generous contributions. The program will be announced later in October. The crowdfunding campaign is active for 14 more days - do spread the word and/or contribute!  
