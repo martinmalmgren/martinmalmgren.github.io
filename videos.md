@@ -13,12 +13,7 @@ Place the ID:s of the videos here below (in between the "capture"-tags
 
 yUWtk81q7Eo
 tKE98TUAV4w
-H7HuHMH-1bs
-YJc_vKJEZ58
-0DLAZf9y43Q
 Jz8jvwo5zYU
-a33_8fWiX6Y
-I25frMHXLD4
 Mjz6F8cfAbk
 G44e0dufFx4
 d6_1EjMCvPM
