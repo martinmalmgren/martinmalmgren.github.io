@@ -22,7 +22,12 @@ Martin was video-interviewed by Axel Brink from Hufvudstadsbladet earlier this w
     
 ### November 17  
 
-The opening recital of the "Key Discoveries" piano recital series last week was a great success! For more information, click [here](https://www.facebook.com/keydiscoveries/posts/210921509239431)
+The opening recital of the "Key Discoveries" piano recital series last week was a great success! For more information, click [here](https://www.facebook.com/keydiscoveries/posts/210921509239431)  
+  
+### November 14  
+  
+Hannu Hirvelä from Kaleva [reviews](https://www.facebook.com/pianistmartinmalmgren/posts/704937819608335)the performance of Rachmaninoff's 1st concerto with Oulu Sinfonia: "The soloist of the evening was Swedish pianist Martin Malmgren, whom after hearing the 2014 Ilmari Hannikainen piano competition I knew as an extremely personal artist. Malmgren's interpretation was masterly and I particularly liked the second and third movement's shimmeringly fresh expression.
+The long piano solo at the beginning of the Andante was absolutely delicious, played more in the vein of a jazz ballad than of Slavic melancholy."  
   
 ### October 13  
   
