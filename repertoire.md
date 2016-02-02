@@ -10,7 +10,8 @@ title: Repertoire
 
 ## Concerti
 
-### Bach
+### Bach  
+Concerto in D minor  
 Concerto in F minor
  
 ### Bartok
@@ -30,7 +31,10 @@ Rhapsody in blue
 Piano concerto
  
 ### Hindemith
-Kammermusik nr 2 ('Klavierkonzert'), op. 36 nr 1
+Kammermusik nr 2 ('Klavierkonzert'), op. 36 nr 1  
+  
+### Nikolai Medtner  
+Piano concerto nr 2 in C minor, op. 50  
  
 ### Mozart
 Piano concerto nr 23 in A major  
