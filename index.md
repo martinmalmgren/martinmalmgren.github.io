@@ -13,6 +13,18 @@ weight: 1
 
 </head>
 
+
+  
+## 2016  
+  
+### February 24  
+  
+The piano concerto Martin has commissioned from the Mexican composer [Itzam Zapata](http://www.itzamzapata.com/) will be performed in a workshop with Helsinki Philharmonic Orchestra in November this year!  
+  
+  
+### January 16  
+  
+Martin has been invited to participate in two festivals in Italy, taking part in a György Ligeti marathon concert at the Apertamente festival in Verona in May, and performing Études by Ivan Fedele, Maurice Ohana and Ligeti at the extraordinary Mantova Chamber Music Festival in June. See a video from last year's festival [here](https://www.youtube.com/watch?v=lBKqUHqF2HE).
      
 ## 2015  
   
