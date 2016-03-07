@@ -18,10 +18,10 @@ Concerto in F minor
 Piano concerto nr 3
  
 ### Beethoven
-Piano concerto nr 2 in Bb major, op. 19 
+Piano concerto nr 2 in Bb major, op. 19  
 Piano concerto nr 3 in C minor, op. 37  
-Piano concerto nr 4 in G major, op. 58
- 
+Piano concerto nr 4 in G major, op. 58  
+   
 ### Elliot Carter
 Dialogues 2 (2010)
 
@@ -85,19 +85,30 @@ Concerto in C minor for Piano, Trumpet, and String Orchestra, Op. 35
       
 ## Martin's wish-list  
           
-      ### Ligeti  
+          
+          Hans Abrahamsen  
+          Piano concerto  
+          
+          Hindemith  
+          Piano concerto  
+          
+          
+      Ligeti  
       Piano concerto  
       
-      ### B. Martinu  
+      Medtner  
+      Piano concerto nr 1  
+        
+     B. Martinu  
         "Incantation" - Piano concerto nr 4  
         Piano concerto nr 5  
         
-        
-       ### Roberto Gerhard  
+       
+        Roberto Gerhard  
        Concerto for piano and strings  
       
-      ### Kevin Volans  
+       Kevin Volans  
       Piano concerto nr 2, "Atlantic crossing"  
         
-        ### Frederic Rzewski  
+        Frederic Rzewski  
         Piano concerto (2013)  
