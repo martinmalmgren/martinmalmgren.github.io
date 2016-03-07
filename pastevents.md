@@ -73,7 +73,7 @@ Tapiola Sinfonietta
   
 ### November 12  
 Oulu  
-Rachmaninoff: Piano concerto nr 1 
+Rachmaninoff: Piano concerto nr 1  
 Oulu Sinfonia conducted by Ari Rasilainen  
   
 ### November 26  
