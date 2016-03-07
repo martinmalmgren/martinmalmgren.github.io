@@ -16,6 +16,11 @@ weight: 1
 
   
 ## 2016  
+
+  
+### March 7  
+  
+Martin has been selected for the [Sydney International Piano Competition in Australia](http://www.sydneypianocompetition.com.au/) in July!
   
 ### February 24  
   
