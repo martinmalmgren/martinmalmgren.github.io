@@ -5,8 +5,6 @@ weight: 3
 children:
 - Upcoming events
 - Past events
-- 
-- 
 ---
 
 
