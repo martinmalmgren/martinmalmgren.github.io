@@ -85,12 +85,14 @@ Performing Nielsen's 6th Symphony in Hans Abrahamsen's chamber orchestra arrange
 Helsinki  
 Recital with Johanna Kärkkäinen, flute
 
-
-
-
+  
+  
+  
 ## 2014
  
  
+ 
+  
 ### February 1
 Gothenburg, Artisten  
 Ravel: Concerto for left hand  
@@ -232,12 +234,14 @@ Mikkeli, Martti Talvela-sali
 Shostakovich Piano Concerto nr 1, with [St Michels Strings](http://www.mikkelinkaupunginorkesteri.fi/) conducted by [Markku Laakso](http://www.markkulaakso.net/)
  
  
-
-
-
+  
+  
+  
  
 ## 2013
- 
+
+  
+  
 ### July 14-26
 Martin is participating in the Kuhmo Chamber Music Festival as a student in Konstantin Bogino's class, giving many performances throughout the festival
  
