@@ -79,8 +79,8 @@ Mouvements for piano and orchestra
 Sinfonia concertante, op. 60  
 
 ### Shostakovich   
-Concerto in C minor for Piano, Trumpet, and String Orchestra, Op. 35  
-  
+Concerto in C minor for Piano, Trumpet, and String Orchestra, Op. 35          
+    
     
       
 ## Martin's wish-list  
