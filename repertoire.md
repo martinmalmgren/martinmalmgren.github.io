@@ -18,11 +18,18 @@ Concerto in F minor
 Piano concerto nr 3
  
 ### Beethoven
-Piano concerto nr 2 in Bb major  
-Piano concerto in C minor, op. 37
+Piano concerto nr 2 in Bb major, op. 19 
+Piano concerto nr 3 in C minor, op. 37  
+Piano concerto nr 4 in G major, op. 58
  
 ### Elliot Carter
 Dialogues 2 (2010)
+
+### S. Feinberg  
+Piano concerto nr 3 in C minor, op. 44  
+  
+### G. Finzi  
+Eclogue for piano and string orchestra
  
 ### Gershwin
 Rhapsody in blue
@@ -33,11 +40,16 @@ Piano concerto
 ### Hindemith
 Kammermusik nr 2 ('Klavierkonzert'), op. 36 nr 1  
   
+### Kurtag  
+... quasi una fantasia ... Op.27  
+  
 ### Nikolai Medtner  
 Piano concerto nr 2 in C minor, op. 50  
  
-### Mozart
+### Mozart  
+Piano concerto nr 13 in C major  
 Piano concerto nr 23 in A major  
+Piano concerto nr 25 in C major  
 Piano concerto nr 27 in Bb major
  
 ### Prokofiev
@@ -57,7 +69,35 @@ Piano concerto nr 5
  
 ### Schumann
 Piano concerto op. 54  
-Introduction and Allegro Appassionato op. 92
+Introduction and Allegro Appassionato op. 92  
+
+### Stravinsky  
+Concerto for piano and wind instruments  
+Mouvements for piano and orchestra  
+  
+### Szymanowski  
+Sinfonia concertante, op. 60  
 
 ### Shostakovich   
-Concerto in C minor for Piano, Trumpet, and String Orchestra, Op. 35
+Concerto in C minor for Piano, Trumpet, and String Orchestra, Op. 35  
+  
+    
+      
+## Martin's wish-list  
+          
+      ### Ligeti  
+      Piano concerto  
+      
+      ### B. Martinu  
+        "Incantation" - Piano concerto nr 4  
+        Piano concerto nr 5  
+        
+        
+       ### Roberto Gerhard  
+       Concerto for piano and strings  
+      
+      ### Kevin Volans  
+      Piano concerto nr 2, "Atlantic crossing"  
+        
+        ### Frederic Rzewski  
+        Piano concerto (2013)  
