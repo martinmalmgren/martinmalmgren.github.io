@@ -50,11 +50,23 @@ Recital with soprano Júlia Heéger - "Onerva songs" by Uljas Pulkkis
 ### May, exact date TBA  
 Verona, Italy  
 "Apertamente festival"  
+Taking part in a Ligeti marathon concert, performing the 3rd book of Etudes for piano
   
 ### June 2  
 Mantova, Italy  
 Mantova Chamber Music Festival  
 Performing solo piano works by Ligeti, Ivan Fedele and Maurice Ohana. Details TBA  
+  
+  
+### July 4-23  
+Sydney, Australia  
+Taking part in [Sydney International Piano Competition](http://www.sydneypianocompetition.com.au/) 
+  
+
+  
+### November 15  
+Helsinki Music Centre  
+Performing [Itzam Zapata](www.itzamzapata.com)'s Piano Concerto in a workshop with [Helsinki Philharmonic Orchestra](http://helsinginkaupunginorkesteri.fi/en)
   
 
 
