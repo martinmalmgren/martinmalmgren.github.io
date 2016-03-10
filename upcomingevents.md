@@ -36,6 +36,12 @@ Solo recital including Etudes for piano by Debussy, Liszt, Bartok, Ohana and oth
 Arkadia International Bookshop, Helsinki  
 Solo recital, details TBA  
   
+    
+### May 4  
+Musik i Gryt, Sweden  
+Performing klezmer/balkan music with the Babalisk ensemble  
+  
+  
 ### May 7
 Arkadia International Bookshop, Helsinki  
 Horn trios by Brahms and Abrahamsen  
