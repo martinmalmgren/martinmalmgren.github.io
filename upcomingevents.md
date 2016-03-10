@@ -38,8 +38,8 @@ Solo recital, details TBA
   
     
 ### May 4  
-Musik i Gryt, Sweden  
-Performing klezmer/balkan music with the Babalisk ensemble  
+Musik i Gryt festival, Sweden  
+Performing klezmer/balkan music with Babalisk  
   
   
 ### May 7
