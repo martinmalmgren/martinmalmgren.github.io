@@ -943,3 +943,6 @@ div.nav {
 .image_collection a img {
 	width: 250px;
 }
+.highlight {
+	background: #000; 
+}

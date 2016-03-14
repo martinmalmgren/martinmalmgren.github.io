@@ -333,7 +333,9 @@ Program:
 > Couperin - Selected pieces from 6eme ordre de pieces de clavecin  
 > Chopin - Etude op 10:7  
 > Debussy - Selected etudes, book 1
-> ***
+>
+> ---
+>
 > Elliot Carter - Dialogues 2 (2010) for piano and orchestra  
 > Schumann - Introduction and allegro appassionato op. 92 for piano and orchestra
  
@@ -348,8 +350,8 @@ Conductor: Giancarlo Rizzi
 [http://www.arkadiabookshop.fi/wednesday-18-12-at-4pm-the-world-of-karol-szymanowski-his-life-and-works-in-words-and-music-by-pianist-martin-malmgren-emilia-karjunen-elias-lassfolk-julia-heeger-and-annami-hylkila/](http://www.arkadiabookshop.fi/wednesday-18-12-at-4pm-the-world-of-karol-szymanowski-his-life-and-works-in-words-and-music-by-pianist-martin-malmgren-emilia-karjunen-elias-lassfolk-julia-heeger-and-annami-hylkila/)
 
 <meta itemprop="description" content="Prokofiev Piano concerto nr 5">
-<span itemprop="performer" itemscope itemtype="http://schema.org/Person">
-<meta itemprop="name" content="Martin Malmgren"></span>
+<span itemprop="performer" itemscope itemtype="http://schema.org/Person"></span>
+<meta itemprop="name" content="Martin Malmgren">
 
  
  

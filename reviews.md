@@ -35,20 +35,24 @@ title: Reviews
 ---
  
 > "...a musician of the finest sensitivity, gifted with exceptional imagination and piercing intelligence" 
+
 >> __Jerome Lowenthal__, Piano Faculty, The Juilliard School, New York
 
 ---
  
 > "...a huge talent that can play the most demanding pieces of the piano repertoire with staggering virtuosity and musical committment" 
+
 >> __Erik T. Tawastjerna__, Piano Faculty, Sibelius Academy, Helsinki
  
 ---
 
 > "Martin has as a pianist and chamber musician shown instrumental knowledge on an exceptionally high level, paired with his fantastically
     sensitive and lyrical talent" 
+
 >> __Per Nyström__, Solo cellist and Artistic Director of Aurora Chamber Music Festival
 
 ---
  
 >"...one of the foremost Swedish pianists in the younger generation" 
+
 >> __Mats Widlund__, professor in piano, Royal Academy of Music, Stockholm
