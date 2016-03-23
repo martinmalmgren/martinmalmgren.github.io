@@ -31,11 +31,30 @@ Recital with cellist Martta Magdalena Valkeus. Works by Schumann, Tchaikovsky, S
 Suistoklubi, Hämeenlinna  
 Solo recital including Etudes for piano by Debussy, Liszt, Bartok, Ohana and others! More information [here](http://www.karjalainen.menoinfo.fi/hameenlinna/musiikki/suiston-pianoklubi/565705)
   
+### March 20  
+Helsinki
+Private recital - works by Schumann, Medtner and Szymanowski  
+  
+### March 30  
+Helsinki  
+Private event, with Jaso Sasaki, violin. Works by Hubay and Grainger  
+
   
 ### April 9  
 Arkadia International Bookshop, Helsinki  
-Solo recital, details TBA  
+Solo recital, works by Schumann, Szymanowski, Grainger, Meale, Ohana and Debussy
   
+### April 14  
+Steinway Gallery, Stockholm  
+Solo recital
+  
+### April 15  
+Collegium Musicum, Uppsala  
+Solo recital  
+
+### April, date TBA  
+Bergamo, Italy
+Solo recital  
     
 ### May 4  
 Musik i Gryt festival, Sweden  
@@ -44,8 +63,7 @@ Performing klezmer/balkan music with Babalisk
   
 ### May 7
 Arkadia International Bookshop, Helsinki  
-Horn trios by Brahms and Abrahamsen  
-with Emilia Karjunen, violin, and Henriikka Teerikangas, horn  
+Program TBA
   
   
 ### May 23  
@@ -61,7 +79,7 @@ Taking part in a Ligeti marathon concert, performing the 3rd book of Etudes for 
 ### June 2  
 Mantova, Italy  
 Mantova Chamber Music Festival  
-Performing solo piano works by Ligeti, Ivan Fedele and Maurice Ohana. Details TBA  
+Performing solo piano works by Ivan Fedele, Richard Meale, Bartok and Maurice Ohana. 
   
   
 ### July 4-23  
