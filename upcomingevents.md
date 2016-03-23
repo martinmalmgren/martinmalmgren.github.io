@@ -71,10 +71,6 @@ Musiikkitalo - Helsinki Music Centre, Sonore
 Recital with soprano Júlia Heéger - "Onerva songs" by Uljas Pulkkis
 
   
-### May, exact date TBA  
-Verona, Italy  
-"Apertamente festival"  
-Taking part in a Ligeti marathon concert, performing the 3rd book of Etudes for piano
   
 ### June 2  
 Mantova, Italy  
