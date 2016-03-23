@@ -31,8 +31,8 @@ Recital with cellist Martta Magdalena Valkeus. Works by Schumann, Tchaikovsky, S
 Suistoklubi, Hämeenlinna  
 Solo recital including Etudes for piano by Debussy, Liszt, Bartok, Ohana and others! More information [here](http://www.karjalainen.menoinfo.fi/hameenlinna/musiikki/suiston-pianoklubi/565705)
   
-### March 20  
-Helsinki
+### March 20   
+Helsinki  
 Private recital - works by Schumann, Medtner and Szymanowski  
   
 ### March 30  
