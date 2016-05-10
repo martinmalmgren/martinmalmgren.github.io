@@ -16,6 +16,11 @@ weight: 1
 
   
 ## 2016  
+  
+  
+### April 1  
+  
+The [Key Discoveries](https://www.facebook.com/keydiscoveries/) recital dates are now out - have a look [here](https://www.facebook.com/keydiscoveries/photos/a.199967843668131.1073741828.183053725359543/279371209061127/?type=3&theater). 
 
   
 ### March 7  
