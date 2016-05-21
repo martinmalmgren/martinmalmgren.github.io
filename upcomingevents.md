@@ -44,15 +44,8 @@ Private event, with Jaso Sasaki, violin. Works by Hubay and Grainger
 Arkadia International Bookshop, Helsinki  
 Solo recital, works by Schumann, Szymanowski, Grainger, Meale, Ohana and Debussy
   
-### April 14  
-Steinway Gallery, Stockholm  
-Solo recital
-  
-### April 15  
-Collegium Musicum, Uppsala  
-Solo recital  
 
-### April, date TBA  
+### April 24  
 Bergamo, Italy
 Solo recital  
     
@@ -63,19 +56,42 @@ Performing klezmer/balkan music with Babalisk
   
 ### May 7
 Arkadia International Bookshop, Helsinki  
-Program TBA
+"Hullu laulaja" - Songs by Uljas Pulkkis, Strauss and Sibelius with soprano Julia Heeger. Solo piano works by Grainger and Ohana.  
   
+### May 21  
+Musiikkitalo - Helsinki Music Centre, Camerata  
+Lunch-time recital. Beethoven: Kreuzer sonata with Elias Lassfolk, violin  
+
   
 ### May 23  
 Musiikkitalo - Helsinki Music Centre, Sonore  
 Recital with soprano Júlia Heéger - "Onerva songs" by Uljas Pulkkis
 
-  
+### May 28  
+Bergamo, Italy  
+Private recital  
+
   
 ### June 2  
 Mantova, Italy  
 Mantova Chamber Music Festival  
 Performing solo piano works by Ivan Fedele, Richard Meale, Bartok and Maurice Ohana. 
+  
+  
+### June 8 
+Stockholm, Sweden  
+Steinway Gallery  
+Solo recital  
+
+### June 10  
+Hämeenlinna
+Sibelius Center  
+Solo recital  
+  
+  
+### June 11-17  
+Raudaskylä  
+Solo recitals
   
   
 ### July 4-23  
