@@ -3,7 +3,7 @@ layout: default
 title: Biography
 ---
 
-Pianist Martin Malmgren has made himself known as a versatile performer, equally at home as a recitalist, concerto soloist, and chamber musician. With a repertoire ranging from early baroque up until the music of our times, he takes delight in surprising his audiences by performing unjustly neglected works and composers, in addition to the standard repertoire. Always aiming at finding meaningful connections between different composers, his concert programs typically show a thoughtful approach towards building bridges between different musical styles and periods. 
+Pianist Martin Malmgren has made himself known as a versatile performer, equally at home as a recitalist, concerto soloist, and chamber musician. With a repertoire ranging from early baroque up until the music of our times, he takes delight in surprising his audiences by performing unjustly neglected works and composers, in addition to the standard repertoire. Always aiming at finding meaningful connections between different composers, his concert programs typically show a thoughtful approach towards building bridges between different musical styles and periods. Additionally, Martin is also founder of the [Key Discoveries](https://www.facebook.com/keydiscoveries/) piano recital series in Helsinki.
 
   
 
