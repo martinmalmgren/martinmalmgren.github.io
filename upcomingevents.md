@@ -40,10 +40,6 @@ Helsinki
 Private event, with Jaso Sasaki, violin. Works by Hubay and Grainger  
 
   
-### April 9  
-Arkadia International Bookshop, Helsinki  
-Solo recital, works by Schumann, Szymanowski, Grainger, Meale, Ohana and Debussy
-  
 
 ### April 24  
 Bergamo, Italy
@@ -78,27 +74,49 @@ Mantova Chamber Music Festival
 Performing solo piano works by Ivan Fedele, Richard Meale, Bartok and Maurice Ohana. 
   
   
-### June 8 
-Stockholm, Sweden  
-Steinway Gallery  
-Solo recital  
 
 ### June 10  
 Hämeenlinna
 Sibelius Center  
-Solo recital  
+Solo recital - Works by Medtner, Liszt, Bartok, Richard Meale, Magnus Lindberg, Chopin and Ravel  
   
   
 ### June 11-17  
 Raudaskylä  
-Solo recitals
+Solo recitals  
+  
+### June 20  
+Stockholm, Sweden  
+All Saints Church  
+Solo recital. Works by Schumann, Szymanowski, Grainger, Richard Meale, Maurice Ohana and Debussy  
+  
+### June 22  
+Helsinki  
+Arkadia International Bookshop  
+Solo recital. Works by Medtner, Liszt, Bartok, Richard Meale, Magnus Lindberg, Chopin and Ravel  
+  
   
   
 ### July 4-23  
 Sydney, Australia  
 Taking part in [Sydney International Piano Competition](http://www.sydneypianocompetition.com.au/) 
   
+### August 28  
+Bydgoszcz, Poland
+Beethoven 4th piano concerto
+With Torun Symphony Orchestra, conducted by Przemysław Fiugajski  
+  
+  
+### October 9 
+Gothenburg, Sweden  
+Private recital  
 
+
+### October 15  
+Helsinki
+Recital for the Finnish Chopin Society  
+Hakasalmen huvila  
+  
   
 ### November 15  
 Helsinki Music Centre  
