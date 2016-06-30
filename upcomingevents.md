@@ -76,7 +76,7 @@ Performing solo piano works by Ivan Fedele, Richard Meale, Bartok and Maurice Oh
   
 
 ### June 10  
-Hämeenlinna
+Hämeenlinna  
 Sibelius Center  
 Solo recital - Works by Medtner, Liszt, Bartok, Richard Meale, Magnus Lindberg, Chopin and Ravel  
   
@@ -102,18 +102,18 @@ Sydney, Australia
 Taking part in [Sydney International Piano Competition](http://www.sydneypianocompetition.com.au/) 
   
 ### August 28  
-Bydgoszcz, Poland
-Beethoven 4th piano concerto
+Bydgoszcz, Poland  
+Beethoven 4th piano concerto  
 With Torun Symphony Orchestra, conducted by Przemysław Fiugajski  
+    
   
-  
-### October 9 
+### October 9   
 Gothenburg, Sweden  
 Private recital  
 
 
 ### October 15  
-Helsinki
+Helsinki  
 Recital for the Finnish Chopin Society  
 Hakasalmen huvila  
   
