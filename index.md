@@ -21,6 +21,13 @@ weight: 1
 ### July 23  
   
 Martin has received the (Jury Discretionary Award)[http://www.sydneypianocompetition.com.au/2016-competition/prize-winners] of the Sydney International Piano Competition.  
+  
+### July 8  
+  
+From the (Pianofortephilia)[http://pianofortephilia.blogspot.com.au/2016/07/sydney-international-piano-competition_8.html] blog:  
+  
+"It is funny how the most interesting pianists get lumped together in a single session. MARTIN MALMGREN, who has shoulder length frizzy hair, is probably the most wayward and bizarre (in a good way) of the 32. He began his 20 minutes with Medtner's Prologue (from Stimmungsbilder Op.1), a perfect “once upon a time” set to music if any. Its E flat major entreaties soon gave way to Liszt's late and bleak Nuages Gris (Grey Clouds) in G minor, which pointed to the increasing level of dissonance as the music progressed. The broken final chord, left hanging in the air served as a prelude to Bartok's Three Etudes (Op.18), which was a summation of the Hungarian's idiom – rhythmic violence, impressionist harmonies and the exploration of variegated scents, textures and touches, all served to perfection with Malmgren's faultless pianism.  
+His programme closed with Australian Brett Dean's Equality, but how many people in the audience knew this was a work for a vocalising pianist? Perhaps for the first time in this competition, one got to hear a pianist's voice as well, when he interjected “All men are bastards!” There were guffaws and dropped jaws a plenty in this feminist work, to which he added “We will fight for equality...” while pounding away on the keys, and wait for the punchline, “... until all women are bastards too!” This competition has sought for pianists of individualism and creativity, and I think they got more than they bargained for. Bravo!"
 
       
 ### April 1  
