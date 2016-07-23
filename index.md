@@ -18,6 +18,11 @@ weight: 1
 ## 2016  
   
   
+### July 23  
+  
+Martin has received the (Jury Discretionary Award)[http://www.sydneypianocompetition.com.au/2016-competition/prize-winners] of the Sydney International Piano Competition.  
+
+      
 ### April 1  
   
 The [Key Discoveries](https://www.facebook.com/keydiscoveries/) recital dates are now out - have a look [here](https://www.facebook.com/keydiscoveries/photos/a.199967843668131.1073741828.183053725359543/279371209061127/?type=3&theater). 
