@@ -104,7 +104,7 @@ Taking part in [Sydney International Piano Competition](http://www.sydneypianoco
 ### August 28  
 Bydgoszcz, Poland  
 Beethoven 4th piano concerto  
-With Torun Symphony Orchestra, conducted by Przemysław Fiugajski  
+With Torun Symphony Orchestra, conducted by Anna Duczmal-Mróz  
     
   
 ### October 9   
@@ -112,10 +112,6 @@ Gothenburg, Sweden
 Private recital  
 
 
-### October 15  
-Helsinki  
-Recital for the Finnish Chopin Society  
-Hakasalmen huvila  
   
   
 ### November 15  
