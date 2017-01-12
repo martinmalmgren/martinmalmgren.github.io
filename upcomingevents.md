@@ -33,11 +33,11 @@ More information [here](https://www.facebook.com/events/1198679680208745/)
 
 ### February 5  
 Helsinki Music Center  
-Performing Uljas Pulkkis' "Onervan lauluja" with soprano Julia Heeger  
+Performing Uljas Pulkkis' "Onerva songs" with soprano Júlia Heéger
 
 ### March 9  
 Tampere  
-Piano recital for the Tampere Piano Society  
+Recital for the Tampere Piano Society  
   
 
 To be updated
