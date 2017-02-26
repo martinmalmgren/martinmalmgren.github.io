@@ -35,14 +35,22 @@ More information [here](https://www.facebook.com/events/1198679680208745/)
 Helsinki Music Center  
 Performing Uljas Pulkkis' "Onerva songs" with soprano Júlia Heéger  
   
-### February 28  
+### March 5  
 Bergamo, Italy  
 Private recital  
   
   
 ### March 9  
 Tampere  
-Recital for the Tampere Piano Society  
+Recital for the Tampere Piano Society. Works by Bach, Percy Grainger and Magnus Lindberg
   
-
+### March 25  
+Hämeenlinna  
+Inaugural concert for the newly-bought Fazioli grand piano in Hämeenlinna Parish. Works by Liszt and Bach.  
+  
+### April  
+Hämeenlinna, Helsinki  
+Concert performances of Stravinsky's "Rite of spring", transcribed for solo piano. Dates to be announced.  
+  
+  
 To be updated
