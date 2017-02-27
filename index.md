@@ -13,9 +13,45 @@ weight: 1
 
 </head>
 
-
+## 2017  
+  
+ 
+### Feb 27  
+  
+The next [Key Discoveries](https://www.facebook.com/keydiscoveries/) concert takes place on [February 28th!](https://www.facebook.com/events/251517551968742/) More information on upcoming concerts will be announced in the nearest days - stay tuned!  
+  
+  
+### Feb 22  
+  
+As part of a dance production of Stravinsky's "Rite of spring", Martin will perform a solo transcription of the work in Hämeenlinna and Helsinki in April. Dates to be announced.  
+  
+### Feb 22  
+  
+Martin will perform at the inaugural concert for the newly-bought Fazioli grand piano in Hämeenlinna on March 25th. Music by Liszt and Bach on the program.  
+  
+### Jan 26  
+  
+Pictures from Martin's performance of the Stravinsky piano concerto with Kaartin soittokunta conducted by Sasha Mäkilä can be seen [here](https://www.facebook.com/kaartinsoittokunta/posts/1322882681110071) and [here](https://www.facebook.com/kaartinsoittokunta/posts/1322456744485998)
   
 ## 2016  
+  
+  
+### December 20  
+  
+The world premiere of José Luis Gómez Aleixandre's "Dreaming of a spaceless time" can be heard [here](https://www.youtube.com/watch?v=hMY2K0vuC5M)  
+
+### November 2  
+  
+Martin is performing a violin recital program with Lea Tuuri, including sonatas by Ravel and Debussy, Szymanowski's "Myths" and music by Erik Satie:  
+  
+November 6th: Kerava Congregation Center  
+November 9th: Helsinki Music Center  
+November 12: Finnish National Opera  
+  
+  
+### October 21  
+  
+The first CD from the Sydney International Piano Competition, 'Encore!', has been released, including Martin performing music by Magnus Lindberg. More information [here](https://www.facebook.com/sydneypianocomp/posts/1206635656042024) 
   
   
 ### July 23  
