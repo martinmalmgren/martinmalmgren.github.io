@@ -42,15 +42,25 @@ Private recital
   
 ### March 9  
 Tampere  
-Recital for the Tampere Piano Society. Works by Bach, Percy Grainger and Magnus Lindberg
+Recital for the Tampere Piano Society. Works by Bach, Percy Grainger and Magnus Lindberg  
   
 ### March 25  
 Hämeenlinna  
 Inaugural concert for the newly-bought Fazioli grand piano in Hämeenlinna Parish. Works by Liszt and Bach.  
+PLEASE NOTE: This concert has been postponed until autumn.  
   
 ### April  
 Hämeenlinna, Helsinki  
 Concert performances of Stravinsky's "Rite of spring", transcribed for solo piano. Dates to be announced.  
+  
+  
+### June 9-10  
+Hanaholmen, Helsinki  
+Solo recital. Details TBA  
+  
+### June 12  
+Iitala Music Festival  
+Solo recital. Works by Sibelius, Lindberg and Ravel.
   
   
 To be updated
