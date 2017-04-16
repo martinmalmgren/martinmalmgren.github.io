@@ -54,9 +54,18 @@ Hämeenlinna, Helsinki
 Concert performances of Stravinsky's "Rite of spring", transcribed for solo piano. Dates to be announced.  
   
   
+### May 6  
+Kraftverksmuséet/Tekniikan museo  
+"Islossningskonsert med GUF-kören"  
+Works with choir by Karin Rehnqvist, Göran Hägg, Waldemar Åhlen, Wilhelm Peterson-Berger and others. Solo piano works by Elfrida Andrée, Maurice Ravel and Bach.  
+  
+  
 ### June 9-10  
 Hanaholmen, Helsinki  
-Solo recital. Details TBA  
+Solo recital as part of the "Nordic Nights" event  
+Sibelius - Stenhammar - Nielsen  
+Elfrida Andrée - Laura Netzel - Helena Munktell - Helvi Leiviskä - Magnus Lindberg  
+  
   
 ### June 12  
 Iitala Music Festival  
