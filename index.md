@@ -28,7 +28,7 @@ On June 12th, Martin performs at the newly-launched music festival in Iittala, [
   
 ### May 15  
   
-In June, Martin takes part in ["Nordiska Nätter"](https://www.facebook.com/nordiskanatter/) at Hanaholmen, an event full of seminars, movies and music. The concert focuses on mostly Scandinavian piano music, including Nielsen and Sibelius, as well as the much lesser-known female composer pioneers Elfrida Andrée, Laura Netzel, Helena Munktell and Helvi Leiviskä. More information [https://www.hanaholmen.fi/sv/kulturcentrum/konst-och-kultur/kulturevenemang/nordiskanatter/](here.) 
+In June, Martin takes part in ["Nordiska Nätter"](https://www.facebook.com/nordiskanatter/) at Hanaholmen, an event full of seminars, movies and music. The concert focuses on mostly Scandinavian piano music, including Nielsen and Sibelius, as well as the much lesser-known female composer pioneers Elfrida Andrée, Laura Netzel, Helena Munktell and Helvi Leiviskä.
   
   
 ### March 30  
