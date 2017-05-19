@@ -21,6 +21,11 @@ weight: 1
 Martin has been invited to perform Mozart's 23rd piano concerto at the [Alion Baltic International Music Festival](alionbalticfestival.com) in Tallinn on July 14th in Noblessner Hall. The concert is shared with Oxana Yablonskaya, who performs Beethoven's 4th piano concerto.  
   
   
+### May 18  
+  
+On June 12th, Martin performs at the newly-launched music festival in Iittala, [Iittalan musiikkijuhlat](https://www.facebook.com/iittalanmusiikinkesa/). More information on program and details [here](https://www.facebook.com/events/1852242468350402/)  
+    
+  
 ### May 15  
   
 In June, Martin takes part in ["Nordiska Nätter"](https://www.facebook.com/nordiskanatter/) at Hanaholmen, an event full of seminars, movies and music. The concert focuses on mostly Scandinavian piano music, including Nielsen and Sibelius, as well as the much lesser-known female composer pioneers Elfrida Andrée, Laura Netzel, Helena Munktell and Helvi Leiviskä. More information [https://www.hanaholmen.fi/sv/kulturcentrum/konst-och-kultur/kulturevenemang/nordiskanatter/](here).  
