@@ -16,21 +16,21 @@ weight: 1
 ## 2017  
   
   
+### May 19  
+  
+Martin has been invited to perform Mozart's 23rd piano concerto at the [Alion Baltic International Music Festival](alionbalticfestival.com) in Tallinn on July 14th in Noblessner Hall. The concert is shared with Oxana Yablonskaya, who performs Beethoven's 4th piano concerto.  
   
   
- 
-### Feb 27  
+### May 15  
   
-The next [Key Discoveries](https://www.facebook.com/keydiscoveries/) concert takes place on [February 28th!](https://www.facebook.com/events/251517551968742/) More information on upcoming concerts will be announced in the nearest days - stay tuned!  
+In June, Martin takes part in ["Nordiska Nätter"](https://www.facebook.com/nordiskanatter/) at Hanaholmen, an event full of seminars, movies and music. The concert focuses on mostly Scandinavian piano music, including Nielsen and Sibelius, as well as the much lesser-known female composer pioneers Elfrida Andrée, Laura Netzel, Helena Munktell and Helvi Leiviskä. More information [https://www.hanaholmen.fi/sv/kulturcentrum/konst-och-kultur/kulturevenemang/nordiskanatter/](here).  
   
   
-### Feb 22  
+### March 30  
   
-As part of a dance production of Stravinsky's "Rite of spring", Martin will perform a solo transcription of the work in Hämeenlinna and Helsinki in April. Dates to be announced.  
+Great news: [Key Discoveries](https://www.facebook.com/keydiscoveries/posts/458218284509751) has, once again, received very generous support from the Swedish Cultural Foundation in Finland! Thank you!  
   
-### Feb 22  
   
-Martin will perform at the inaugural concert for the newly-bought Fazioli grand piano in Hämeenlinna on March 25th. Music by Liszt and Bach on the program.  
   
 ### Jan 26  
   
