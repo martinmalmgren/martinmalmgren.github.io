@@ -60,10 +60,21 @@ Kraftverksmuséet/Tekniikan museo
 Works with choir by Karin Rehnqvist, Göran Hägg, Waldemar Åhlen, Wilhelm Peterson-Berger and others. Solo piano works by Elfrida Andrée, Maurice Ravel and Bach.  
   
   
+### May 31  
+Arkadia International Bookshop  
+Sibelius - Nielsen  
+Elfrida Andrée - Laura Netzel - Helena Munktell - Helvi Leiviskä - Magnus Lindberg 
+  
+  
+### June 7-8  
+Raudaskylän Soiva Kesä  
+Solo performances  
+  
+  
 ### June 9-10  
 Hanaholmen, Helsinki  
 Solo recital as part of the "Nordic Nights" event  
-Sibelius - Stenhammar - Nielsen  
+Sibelius - Nielsen  
 Elfrida Andrée - Laura Netzel - Helena Munktell - Helvi Leiviskä - Magnus Lindberg  
   
   
