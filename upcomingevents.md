@@ -69,7 +69,15 @@ Elfrida Andrée - Laura Netzel - Helena Munktell - Helvi Leiviskä - Magnus Lind
   
 ### June 12  
 Iitala Music Festival  
-Solo recital. Works by Sibelius, Lindberg and Ravel.
+Solo recital. Works by Sibelius, Lindberg and Ravel.  
+  
+  
+### July 14  
+Alion Baltic International Music Festival, Tallinn  
+Mozart - Piano concerto nr 23  
+Noblessner Hall  
+Also appearing in the same concert will be Oxana Yablonskaya, performing Beethoven's 4th piano concerto  
+  
   
   
 To be updated
