@@ -62,8 +62,17 @@ Works with choir by Karin Rehnqvist, Göran Hägg, Waldemar Åhlen, Wilhelm Pete
   
 ### May 31  
 Arkadia International Bookshop  
-Sibelius - Nielsen  
-Elfrida Andrée - Laura Netzel - Helena Munktell - Helvi Leiviskä - Magnus Lindberg 
+"Nordic piano rarities and classics"  
+Sibelius - Nielsen - Elfrida Andrée - Laura Netzel - Helena Munktell - Helvi Leiviskä - Magnus Lindberg  
+More information [here](http://www.arkadiabookshop.fi/tuesday-31-5-at-6pm-nordic-piano-rarities-and-classics-with-pianist-martin-malmgren/)  
+  
+  
+### June 5  
+Temppeliaukio church, Helsinki, 3 pm  
+"Nordic piano rarities and classics"  
+Sibelius - Nielsen - Elfrida Andrée - Laura Netzel - Helena Munktell - Helvi Leiviskä - Magnus Lindberg  
+  
+  
   
   
 ### June 7-8  
