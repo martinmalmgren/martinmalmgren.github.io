@@ -16,6 +16,19 @@ weight: 1
 ## 2017  
   
   
+### June 18  
+
+[Iittala music festival](https://www.facebook.com/iittalanmusiikinkesa/) is over and has received plenty of attention in the media. A video clip on Yle broadcasting company, starting at 5:19, can be seen [here](http://areena.yle.fi/1-4160924?autoplay=true).  
+  
+Sakari Hildén from Hämeen Sanomat reviewed Martin's recital earlier in the week, writing:  
+  
+"Malmgren is a young but experienced pianist. His pianistic technique enables him to tackle even the most challenging works with ease. His program included music by Sibelius and Nielsen, two composers often compared with one another, as well as a number of lesser-known works. (...) Malmgren started with the Sibelius Sonatinas. In these works the casual sound of the Schimmel grand piano worked well, and the pianist captured their unpretentious, easy-going style.  
+Nielsen's, in it's originally Lucifer-named misunderstood and very rarely played Suite op.45 is in it's exciting eccentricity far away from Sibelius's clearly defined feelings. Malmgren highlighted strongly the characters of the movements and captured for example the fourth movement's innocence aptly.(...)  
+The main work of the evening was Ravel's mystical Gaspard de la nuit. Here the resistance of the instrument became evident; to achieve the richness of the sound, a better instrument would have been needed. Malmgren nevertheless managed to bring forth a respectable amount of colours from this one the most challenging pieces of the standard repertoire. (...)"  
+  
+Full review in Finnish [here](https://www.facebook.com/pianistmartinmalmgren/posts/1081133988655381:0)  
+  
+  
 ### May 19  
   
 Martin has been invited to perform Mozart's 23rd piano concerto at the [Alion Baltic International Music Festival](alionbalticfestival.com) in Tallinn on July 14th in Noblessner Hall. The concert is shared with Oxana Yablonskaya, who performs Beethoven's 4th piano concerto.  
