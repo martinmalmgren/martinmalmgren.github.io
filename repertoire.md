@@ -137,3 +137,6 @@ Concerto in C minor for Piano, Trumpet, and String Orchestra, Op. 35
         
 	Frederic Rzewski  
 	Piano concerto (2013)  
+	  
+	Johan Ullén  
+	The Deadly Sins, for piano and string orchestra  
