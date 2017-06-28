@@ -88,7 +88,7 @@ Sinfonia concertante, op. 60
 ### Shostakovich   
 Concerto in C minor for Piano, Trumpet, and String Orchestra, Op. 35          
     
-### Zatapa, Itzam  
+### Itzam Zapata   
 "Paraphernalia" (2015-2016) for piano and orchestra  
     
       
