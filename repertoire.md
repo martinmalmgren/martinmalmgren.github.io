@@ -12,33 +12,40 @@ title: Repertoire
 
 ### Bach  
 Concerto in D minor  
-Concerto in F minor
- 
-### Bartok
+Concerto in F minor  
+Concerto in G minor  
+  
+### Bartok  
 Piano concerto nr 3
- 
-### Beethoven
+  
+### Beethoven  
 Piano concerto nr 2 in Bb major, op. 19  
 Piano concerto nr 3 in C minor, op. 37  
 Piano concerto nr 4 in G major, op. 58  
    
 ### Elliot Carter
-Dialogues 2 (2010)
+Dialogues 2 (2010)  
+  
+### Fauré  
+Fantasie op. 111  
 
-### S. Feinberg  
+### Samuil Feinberg  
 Piano concerto nr 3 in C minor, op. 44  
   
-### G. Finzi  
+### Gerald Finzi  
 Eclogue for piano and string orchestra
- 
-### Gershwin
-Rhapsody in blue
- 
-### Grieg
-Piano concerto
- 
-### Hindemith
+  
+### Gershwin  
+Rhapsody in blue  
+  
+### Grieg  
+Piano concerto  
+  
+### Hindemith  
 Kammermusik nr 2 ('Klavierkonzert'), op. 36 nr 1  
+  
+### Ilari Kaila  
+Kellojen kummarrus - The bells bow down (2006), in memoriam Hanna Sarvala  
   
 ### Kurtag  
 ... quasi una fantasia ... Op.27  
@@ -50,24 +57,24 @@ Piano concerto nr 2 in C minor, op. 50
 Piano concerto nr 13 in C major  
 Piano concerto nr 23 in A major  
 Piano concerto nr 25 in C major  
-Piano concerto nr 27 in Bb major
- 
-### Prokofiev
+Piano concerto nr 27 in Bb major  
+   
+### Prokofiev  
 Piano concerto nr 3  
-Piano concerto nr 5
- 
-### Rachmaninov
+Piano concerto nr 5  
+  
+### Rachmaninov  
 Piano concerto nr 1 in F# minor, op. 1  
 Piano concerto nr 2 in C minor, op. 18
  
-### Ravel
+### Ravel  
 Piano concerto in G major  
 Concerto for the left hand
  
-### Saint-Saens
-Piano concerto nr 5
+### Saint-Saens  
+Piano concerto nr 5 in F major  
  
-### Schumann
+### Schumann  
 Piano concerto op. 54  
 Introduction and Allegro Appassionato op. 92  
 
@@ -81,6 +88,8 @@ Sinfonia concertante, op. 60
 ### Shostakovich   
 Concerto in C minor for Piano, Trumpet, and String Orchestra, Op. 35          
     
+### Zatapa, Itzam  
+"Paraphernalia" (2015-2016) for piano and orchestra  
     
       
 ## Martin's wish-list  
@@ -88,9 +97,24 @@ Concerto in C minor for Piano, Trumpet, and String Orchestra, Op. 35
           
 	Hans Abrahamsen  
 	Piano concerto  
+	  
+	Grazyna Bacewicz  
+	Piano concerto (1949)  
+	  
+	  
+	Ruth Gipps  
+	Piano concerto (1948)  
+	  
+	  
+	Peggy Glanville-Hicks  
+	"Etruscan concerto" for piano and chamber orchestra  
+	  
           
 	Hindemith  
 	Piano concerto  
+	  
+	Vitezslava Kapralova  
+	Partita for piano and string orchestra  
           
           
 	Ligeti  
@@ -102,6 +126,7 @@ Concerto in C minor for Piano, Trumpet, and String Orchestra, Op. 35
 	B. Martinu  
 	"Incantation" - Piano concerto nr 4  
 	Piano concerto nr 5  
+	Divertimento for piano left hand and chamber orchestra  
         
        
 	Roberto Gerhard  
