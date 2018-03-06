@@ -4,39 +4,48 @@ title: Concerts
 weight: 3
 
 ---
-
+  
+  
 ## 2018  
+  
+  
   
 ### January 5 
 Ylivieska, Akustiikka  
 Music by Bach  
   
+  
 ### January 26  
 Helsinki, Karatalo  
 Concert with singer/flutist Krista Pellikka  
   
+  
 ### February 11  
 Temppeliaukio church, Helsinki  
 Solo recital featuring music by Bach. On the program:  
+  
   
 English suite nr 5 in E minor  
 French suite nr 3 in B minor  
 Selected Preludes and Fugues from Das Wohltemperiertes Klavier  
 Partita nr 4 in D major  
   
+  
 ### March 20  
+
 Camerata, Music House, Helsinki  
 Performing music by Fredrik Pacius with violinist Sebastian Silén  
-  
+    
   
 ### March 24  
 Espoo tuomiokirkko  
 Earth hour concert with EsVoces choir, conducted by Håkan Wikman  
   
+  
 ### April 4-15  
 Prussia Cove Masterclasses and performances  
   
-
+  
 ### May 9  
 Musik i Gryt festival  
 Performing with Babalisk  
@@ -51,7 +60,7 @@ Details TBA
 Hämeenlinna  
 Bach333 festival  
 Music by Bach, Beethoven and Scarlatti  
-
+  
   
   
 ### November  
@@ -61,13 +70,19 @@ Performing works with political undertones. With violinist Sebastian Silén and 
   
   
   
+  
 To be updated  
+  
   
   
 ## Past concerts  
   
   
+  
+  
 ## 2017  
+  
+  
   
 
 ### January 5  
