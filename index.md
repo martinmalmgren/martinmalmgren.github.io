@@ -18,7 +18,7 @@ weight: 1
 
 ### February 1  
   
-The Finnish Cultural Foundation has given generous support to the upcoming plans of the [Key Discoveries](https://www.facebook.com/keydiscoveries/) initiative. A festival full of surprises is in the planning for late May - stay tuned for details!  
+The Finnish Cultural Foundation has given generous support to the upcoming plans of the [Key Discoveries](https://www.facebook.com/keydiscoveries/) initiative. A festival full of surprises is in the planning for late May - stay tuned for details!  The festival has also received support from the Swedish Cultural Foundation and Musiikkin Edistämissäätiö.  
   
   
 ## 2017  
