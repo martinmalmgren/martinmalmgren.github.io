@@ -12,7 +12,7 @@ Ylivieska, Akustiikka
 Music by Bach  
   
 ### January 26  
-Karatalo, Helsinki  
+Helsinki, Karatalo  
 Concert with singer/flutist Krista Pellikka  
   
 ### February 11  
