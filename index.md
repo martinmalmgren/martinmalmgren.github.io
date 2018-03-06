@@ -13,7 +13,20 @@ weight: 1
 
 </head>
 
+  
+## 2018  
+
+### February 1  
+  
+The Finnish Cultural Foundation has given generous support to the upcoming plans of the [Key Discoveries](https://www.facebook.com/keydiscoveries/) initiative. A festival full of surprises is in the planning for late May - stay tuned for details!  
+  
+  
 ## 2017  
+  
+
+### September 5  
+  
+Following the finals of the International Maj Lind Competition, Martin has written an op:ed for Hufvudstadsbladet on the competition, in Swedish. Read it [here](https://www.facebook.com/pianistmartinmalmgren/posts/1147998961968883).  
   
   
 ### June 18  
