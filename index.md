@@ -17,9 +17,9 @@ weight: 1
 ## 2018  
   
   
-### March 3  
+### March 30  
   
-Martin will debut with [Orchestra di Padova e del Veneto](https://www.opvorchestra.it) later this year. Details to be announced.  
+The Key Discoveries festival program has been released! The artists include Alexei Lubimov, Roland Pöntinen, Paavali Jumppanen, Liisa Pohjola, Risto-Matti Marin, Tuija Hakkila, Aura Go, and numerous others. For details, go [here](https://www.facebook.com/keydiscoveries/).  
   
 ### February 1  
   
