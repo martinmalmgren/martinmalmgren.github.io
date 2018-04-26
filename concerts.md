@@ -33,13 +33,14 @@ Partita nr 4 in D major
   
 ### March 20  
 
-Camerata, Music House, Helsinki  
+Black box, Music House, Helsinki  
 Performing music by Fredrik Pacius with violinist Sebastian Silén  
     
   
 ### March 24  
-Espoo tuomiokirkko  
+Espoon tuomiokirkko, 20.30    
 Earth hour concert with EsVoces choir, conducted by Håkan Wikman  
+Solo pieces by Bach, and mixed choir music  
   
   
 ### April 4-15  
@@ -47,13 +48,33 @@ Prussia Cove Masterclasses and performances
   
   
 ### May 9  
-Musik i Gryt festival  
-Performing with Babalisk  
+Musik i Gryt festival, Sweden  
+Performing klezmer and balkan music with Babalisk  
   
   
 ### May 22-31  
+Helsinki  
 KEY DISCOVERIES PIANO FESTIVAL  
-Details TBA  
+For details, read [here](https://www.facebook.com/keydiscoveries/) 
+  
+  
+### May 27  
+Helsinki, G-18, 15.00  
+Bach-mania!  
+A Bach marathon taking part during the Key Discoveries piano festival  
+  
+  
+### June 21  
+Padova, Italy  
+Debussy marathon concert  
+Martin takes part in a Debussy marathon, performing a selection of Études  
+  
+  
+  
+### July 29  
+Loviisa  
+Finnish violin music of the 19th century - Kajanus, Pacius, Sibelius. With Sebastian Silén, violin  
+
   
   
 ### August 4  
@@ -66,7 +87,7 @@ Music by Bach, Beethoven and Scarlatti
 ### November  
 Temppeliaukio church  
 Finland's Association of Soloists  
-Performing works with political undertones. With violinist Sebastian Silén and cellist Pinja Laine. Date TBA.  
+Performing works with political undertones. With violinist Sebastian Silén and cellist Pinja Laine. Exact date TBA.  
   
   
   
