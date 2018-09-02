@@ -14,14 +14,19 @@ title: Repertoire
 Concerto in D minor  
 Concerto in F minor  
 Concerto in G minor  
+Double concerto in C minor  
   
 ### Bartok  
 Piano concerto nr 3
   
 ### Beethoven  
+Piano concerto nr 1 in C major, op. 15  
 Piano concerto nr 2 in Bb major, op. 19  
 Piano concerto nr 3 in C minor, op. 37  
 Piano concerto nr 4 in G major, op. 58  
+  
+### Bloch  
+Concerto grosso nr 1 for string orchestra and piano obbligato  
    
 ### Elliot Carter
 Dialogues 2 (2010)  
