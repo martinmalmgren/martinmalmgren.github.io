@@ -84,8 +84,14 @@ Music by Bach, Beethoven and Scarlatti
 ### October 31    
 Hietsun paviljonki    
 Finland's Association of Soloists  
-"Music with a message". With violinist Sebastian Silén and cellist Pinja Laine.    
+"Music with a message". With violinist Sebastian Silén and cellists Pinja Laine and Tomas Garces-Nunez.    
   
+  
+  
+### November 17  
+Villa Junghans, Kauniainen  
+Mozart Piano Concerto nr 21  
+Kauniaisten orkesteri, conducted by Jackie Shin  
   
   
   
@@ -192,7 +198,8 @@ Solo recital. Works by Sibelius, Lindberg and Ravel.
 Alion Baltic International Music Festival, Tallinn  
 Mozart - Piano concerto nr 23  
 Noblessner Hall  
-Also appearing in the same concert will be Oxana Yablonskaya, performing Beethoven's 4th piano concerto  
+Also appearing in the same concert will be Oxana Yablonskaya  
+  
   
 ### August 11  
 Arkadia International Bookshop  
