@@ -15,7 +15,11 @@ weight: 1
 
   
 ## 2018  
-
+  
+  
+### Dec 8  
+  
+Martin will make a debut with [Orchestra di Padova e del Veneto](https://www.opvorchestra.it) in early 2019. Details TBA later.   
   
 ### November 24  
   
@@ -35,10 +39,12 @@ The orchestra operates on a fully democratic principle. In every rehearsal, ever
 The Helsinki Chamber Orchestra will open its inaugural season in March of 2019, with tickets on sale on January 1st."
   
   
+### October 10  
   
-### May 14  
+A video from Martin's performance of the Bach Double concerto in C minor together with Konstantin Bogino from May 14th 2018 has been released, and can be seen [https://www.youtube.com/watch?v=UFng451ayR0](here).  
   
-Martin will make a debut with [Orchestra di Padova e del Veneto](https://www.opvorchestra.it) this fall. Details TBA later.  
+  
+
     
 ###  May 9  
   
