@@ -15,6 +15,26 @@ weight: 1
 
   
 ## 2018  
+
+  
+### November 24  
+  
+Martin has been interviewed for his work as a founding member of the Helsinki Chamber Orchestra - read it [here](https://www.helsinkichamberorchestra.com/media/member-of-the-week-martin-malmgren?fbclid=IwAR1w020TlSZ57RE18LZ5FGK17FSdCPxyFBClvvImJSIU-hnQIrjG-H7YN44)!  
+  
+### October 28  
+  
+The [Helsinki Chamber Orchestra](https://www.helsinkichamberorchestra.com/) has officially launched! Martin is one of its founding members together with conductor James Kahane and concertmaster Aku Sorensen and acts as principal orchestral pianist and as part of the artistic board. Official press release below:  
+  
+"The Helsinki Chamber Orchestra was conceived of in the spring of 2018 by a group of international musicians based in Finland. The dream was to create a tight-knit ensemble that blurred the line between orchestra and chamber group, an ensemble that, while still an orchestra, had the ability to perform with the connectivity of a much smaller group.  
+  
+The project awoke a lot of interest throughout the Helsinki classical music community, and through this interest, the resources were found to produce a number of concerts, some chamber music, some orchestral, which would build up the inaugural season of the orchestra.   
+  
+The orchestra operates on a fully democratic principle. In every rehearsal, every person's voice is equal, and discussion and debate are strongly encouraged, allowing every player to have their interpretive voice heard. This creates a unique environment, in which every concert is powerfully influenced by those playing in it. From this core tenet and from the quest for true chamber musical communication comes the motto of the Helsinki Chamber Orchestra: "Music, Undivided".  
+  
+
+The Helsinki Chamber Orchestra will open its inaugural season in March of 2019, with tickets on sale on January 1st."
+  
+  
   
 ### May 14  
   
