@@ -44,8 +44,16 @@ The Helsinki Chamber Orchestra will open its inaugural season in March of 2019, 
 A video from Martin's performance of the Bach Double concerto in C minor together with Konstantin Bogino from May 14th 2018 has been released, and can be seen [https://www.youtube.com/watch?v=UFng451ayR0](here).  
   
   
+### September  
+  
+Hufvudstadsbladet reviews a joint concert with Wegelius chamber strings, where Martin performed works by Fredrik Pacius and Robert Kajanus at G-18 on September 23:  https://www.facebook.com/hblmusik/posts/2169029436642283  
+  
+  
+### May 21  
 
-    
+Martin was interviewed by Wilhelm Kvist from Hufvudstadsbladet to discuss the first Key Discoveries piano festival. In Swedish - read it [https://www.facebook.com/hblmusik/posts/2068990893312805](here).  
+  
+  
 ###  May 9  
   
 Martin is stepping in on short notice to perform two Bach concertos with Belgrade Symphony in Kolarac Hall on May 14th. He will perform the D minor concerto BWV 1052 and the concerto for two keyboards in C minor BWV 1060, the latter together with Konstantin Bogino. More information [here](https://www.facebook.com/events/950976041694011/).
