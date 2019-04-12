@@ -13,13 +13,45 @@ weight: 1
 
 </head>
 
+## 2019  
+  
+  
+### March 28  
+  
+Martin is highly involved in the composing debut concert of Heikki Tuuli on March 31st in Helsinki, participating in no less than 5 world premieres. Read more [here](https://www.facebook.com/events/363252887788731/).  
+  
+  
+### March 13  
+  
+Martin has had an hour-long interview for the DongXiNanPei program, talking about Helsinki Chamber Orchestra and much more. The interview is available [here](https://www.facebook.com/pianistmartinmalmgren/posts/1728608507241256).
+  
+  
+### March 10  
+  
+[Helsinki Chamber Orchestra's](www.helsinkichamberorchestra.com) debut concert has been met with critical acclaim! Reviewer Mats Liljeroos from Hufvudstadsbladet writes:  
+
+"Carwithen is an interesting composer type. In the 1950s she turned her attention to movie music and produced over 30 scores for the silver screen while also making sure she got paid as much as her male colleagues! In the piano concerto however we are dealing with an extremely well written eclectic neoclassical work with a demanding solo part, which Martin Malmgren handled with both virtuosic extroversion and emphatic lyricism."  
+  
+and  
+  
+"The bar was set high and the young French conductor James Salomon Kahane managed in an impressive way to extract as much as possible out of his tightly-knit, cheerful and invested group of musicians. A special praise goes to the concertmaster Aku Sorensen for exquisitely sensitive solos in the Carwithen concerto."  
+  
+Read the full review (in Swedish) [here](https://www.hbl.fi/artikel/stark-kammarorkesterdebut-med-idel-rariteter/?fbclid=IwAR2lh8NKXH-VT1lL8wb2GTi4WSlIMJ7kekGbWy-wsl0LAoOnntrrGNrS6VM)  
+  
+  
+### February 24  
+  
+Helsinki Chamber Orchestra has its debut concert on March 8th, featuring Martin both as soloist and orchestra pianist, performing the Nordic premiere of Doreen Carwithen's piano concerto and Ernest Bloch's Concerto Grosso Nr. 1. Read more [here](https://www.facebook.com/events/1131916403652488/).  
+  
+  
+### January 15  
+  
+Martin has just participated in a marathon including all Prokofiev piano sonatas at Sala dei Giganti in Padova, Italy. The piano sonatas have also been recorded professionally as part of the project, and will be released on a later date.  
+  
+  
   
 ## 2018  
-  
-  
-### Dec 8  
-  
-Martin will make a debut with [Orchestra di Padova e del Veneto](https://www.opvorchestra.it) in early 2019. Details TBA later.   
+   
   
 ### November 24  
   
